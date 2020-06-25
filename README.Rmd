@@ -1,0 +1,34 @@
+---
+output:
+    github_document:
+      html_preview: FALSE
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# thank
+
+<!-- badges: start -->
+[![R build status](https://github.com/jimhester/thank/workflows/R-CMD-check/badge.svg)](https://github.com/jimhester/thank/actions)
+<!-- badges: end -->
+
+``` r
+thank::you()
+```
+
+Will pick a random gif from a dataset of thank you gifs and copy the markdown into your clipboard so it can be used in GitHub comments and other venues.
+
+If you have favorite thank you gifs you like pull requests are welcome, however I would like to keep the gifs free of real life people if possible.
+
+```{r, results = "asis", echo = FALSE}
+cat(sprintf("## %s.\n![%s](%s)\n", seq_len(NROW(thank::thanks)), thank::thanks$text, thank::thanks$url), sep = "\n")
+```
