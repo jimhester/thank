@@ -9,7 +9,7 @@ Authors@R:
              comment = c(ORCID = "0000-0002-2739-7082")),
       person(given = "RStudio",
              role = c("cph", "fnd")))
-Description: Give thanks to the people with the thank 📦.
+Description: Give thanks to the people with the thank 📦. Yay people.
 Imports:
   clipr
 License: MIT + file LICENSE
