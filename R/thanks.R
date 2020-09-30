@@ -3,7 +3,7 @@
 you <- function() {
   row <- sample(NROW(thank::thanks), 1L)
   res <- sprintf("![%s](%s)", thank::thanks$text[row], thank::thanks$url[row])
-  clipr::write_clip(res)
+  clipr::write_clip(res, allow_non_interactive = TRUE)
   message("thanks copied to clipboard")
 
   invisible(res)
