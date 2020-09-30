@@ -47,38 +47,33 @@ bunch\!](https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif)
 ## 6\.
 
 ![Thank
-you\!](https://media.giphy.com/media/mDARadItc2UtloUGLP/giphy.gif)
+you\!](https://media.giphy.com/media/3o6ozuHcxTtVWJJn32/giphy.gif)
 
 ## 7\.
 
-![Thank
-you\!](https://media.giphy.com/media/3o6ozuHcxTtVWJJn32/giphy.gif)
-
-## 8\.
-
 ![Thanks\!](https://media.giphy.com/media/3og0IFip0zn2loy5l6/giphy.gif)
 
-## 9\.
+## 8\.
 
 ![Thanks a
 ton\!](https://media.giphy.com/media/l4FGp4FCcGYswPnrO/giphy.gif)
 
-## 10\.
+## 9\.
 
 ![Thank
 you\!](https://media.giphy.com/media/3ohs7JG6cq7EWesFcQ/giphy.gif)
 
-## 11\.
+## 10\.
 
 ![Thanks\! You are da
 bomb\!](https://media.giphy.com/media/eBqUy3ik6P2vK/giphy.gif)
 
-## 12\.
+## 11\.
 
 ![Thanks a
 bunch\!](https://media.giphy.com/media/xUPGcxpCV81ebKh7Vu/giphy.gif)
 
-## 13\.
+## 12\.
 
 ![Thanks a
 million\!](https://media.giphy.com/media/xUPGcg1IJEKGCI6r5e/giphy.gif)
