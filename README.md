@@ -20,7 +20,7 @@ other venues.
 ## Adding new gifs
 
 If you have favorite thank you gifs you like pull requests are welcome,
-by adding a line to \<inst/extdata/thanks.csv\>.
+by adding a line to [inst/extdata/thanks.csv](inst/extdata/thanks.csv).
 
 ## 1\.
 
